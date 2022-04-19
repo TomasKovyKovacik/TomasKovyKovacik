@@ -4,6 +4,7 @@ Profil TomasKovyKovacik slúži na výučbu predmetu Objektovo orientované prog
 
 Dôležité repozitáre:
   - [Vypracované Zadanie 1 2021/22 - Strelené kačky](https://github.com/TomasKovyKovacik/B-OOP-2022-StreleneKacky)
+
   - [Vypracované Zadanie 2 2021/22 - Reversi](https://github.com/TomasKovyKovacik/B-OOP-2022-Reversi)
 
 ----------------------------------------------------------------------------------------------------------------
