@@ -7,6 +7,8 @@ Dôležité repozitáre:
 
   - [Vypracované Zadanie 2 2021/22 - Reversi](https://github.com/TomasKovyKovacik/B-OOP-2022-Reversi)
 
+  - [Vypracované Zadanie 3 2021/22 - Knihy](https://github.com/TomasKovyKovacik/B-OOP-2022-Knihy)
+
 ----------------------------------------------------------------------------------------------------------------
 
   - [Vypracované Zadanie 1 2020/21 - Monopoly](https://github.com/TomasKovyKovacik/OOP-Monopoly)
