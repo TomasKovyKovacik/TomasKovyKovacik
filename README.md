@@ -8,11 +8,13 @@ Dôležité repozitáre:
 Vypracované zadania 2022/23:
   - [Vypracované Zadanie 1 2022/23 - BangLite](https://github.com/TomasKovyKovacik/B-OOP-2023-BangLite)
   - [Vypracované Zadanie 2 2022/23 - Pipes](https://github.com/TomasKovyKovacik/B-OOP-2023-Pipes)
+  - [Vypracované Zadanie 3 2022/23 - Eshop](https://github.com/TomasKovyKovacik/B-OOP-2023-Eshop)
 ----------------------------------------------------------------------------------------------------------------
 Vypracované zadania 2021/22:
   - [Vypracované Zadanie 1 2021/22 - Strelené kačky](https://github.com/TomasKovyKovacik/B-OOP-2022-StreleneKacky)
   - [Vypracované Zadanie 2 2021/22 - Reversi](https://github.com/TomasKovyKovacik/B-OOP-2022-Reversi)
   - [Vypracované Zadanie 3 2021/22 - Knihy](https://github.com/TomasKovyKovacik/B-OOP-2022-Knihy)
+  - [Vypracované RT 2021/22 - Skúška](https://github.com/TomasKovyKovacik/B-OOP-Exam-RT)
 ----------------------------------------------------------------------------------------------------------------
 Vypracované zadania 2020/21:
   - [Vypracované Zadanie 1 2020/21 - Monopoly](https://github.com/TomasKovyKovacik/OOP-Monopoly)
