@@ -9,7 +9,7 @@ Vypracované zadania 2022/23:
   - [Vypracované Zadanie 1 2022/23 - BangLite](https://github.com/TomasKovyKovacik/B-OOP-2023-BangLite)
   - [Vypracované Zadanie 2 2022/23 - Pipes](https://github.com/TomasKovyKovacik/B-OOP-2023-Pipes)
   - [Vypracované Zadanie 3 2022/23 - Eshop](https://github.com/TomasKovyKovacik/B-OOP-2023-Eshop)
-  - [Vypracované RT 2022/23 - Skúška]()
+  - [Vypracované RT 2022/23 - Skúška](https://github.com/TomasKovyKovacik/B-OOP-Exam-OT)
 ----------------------------------------------------------------------------------------------------------------
 Vypracované zadania 2021/22:
   - [Vypracované Zadanie 1 2021/22 - Strelené kačky](https://github.com/TomasKovyKovacik/B-OOP-2022-StreleneKacky)
